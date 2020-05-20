@@ -6,7 +6,7 @@ Wellcoin (WELL) integration/staging repository
 ======================
 > Official Repository - PoS/MN
 
-:star: Wellcoin is an experimental digital currency that enables anonymous, instant payments to anyone, anywhere in the world. Wellcoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. ZCore is the name of the open source software which enables the use of this currency.
+:star: Wellcoin is an experimental digital currency that enables anonymous, instant payments to anyone, anywhere in the world. Wellcoin uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network. Wellcoin is the name of the open source software which enables the use of this currency.
 
 <p align="center"><a href="https://github.com/wellcoin/wellcoin"><img src="https://wellcoin.tk/img/wallet.png" /></a></p>
 <hr>
