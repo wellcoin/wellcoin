@@ -17,7 +17,7 @@ Wellcoin (WELL) integration/staging repository
 |Ticker 				    | `WELL`               |Block Time  			| `1 MINUTE`          |
 |Algorithm					| `Quark`             |Stake Min Age		| `3 MINUTES`           |
 |Type 						| `PoS/MN`            |Halving Block  		| `0`            |
-|Total Suply 			    | `18,000,000 ZCR`    |Port 			    | `19193`    		  |
+|Total Suply 			    | `70,000,000 ZCR`    |Port 			    | `19193`    		  |
 |Masternode Collateral      | `5,000 WELL`         |Datadir			    | `.wellcoin`			  |
 
 <p align="center"><img src="https://wellcoin.tk/img/blocks.png" /></a></p>
