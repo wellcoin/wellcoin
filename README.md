@@ -27,8 +27,8 @@ Add nodes
 ```
 # zcore.conf
 
-addnode=
-addnode=
+addnode=142.44.196.233:19193
+addnode=142.44.196.227:19193
 addnode=
 ```
 
